@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Mailov</title>
+        <link rel="stylesheet" href="Css.css">
+        <script src="JavaScript.js"></script>
+
+        <style>
+            body {
+    background-color: rgba(238, 255, 0, 0.6);
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: serif;
+
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid rgba(255, 0, 0, 0.9);
+    margin: 0;
+    border-radius: 5px;
+
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+h2 {
+    font-size: xx-large;
+    font-style: italic;
+
+    position:absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-10%, -10%);
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    width: 265px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid rgb(0, 255, 255);
+    margin: 0;
+    border-radius: 5px;
+
+    background-color: rgba(0, 255, 255, 0.4);
+}
+
+h3 {
+    font-size: xx-large;
+    font-style: italic;
+
+    position:absolute;
+    top: 90%;
+    left: 90%;
+    transform: translate(-90%, -90%);
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    width: 280px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid rgb(60, 255, 0);
+    margin: 0;
+    border-radius: 5px;
+
+    background-color: rgba(60, 255, 0, 0.5);
+}
+
+h4 {
+    font-size: xx-large;
+    font-style: italic;
+
+    position:absolute;
+    top: 10%;
+    left: 90%;
+    transform: translate(-90%, -10%);
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    width: 280px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid rgb(119, 0, 255);
+    margin: 0;
+    border-radius: 5px;
+
+    background-color: rgba(119, 0, 255, 0.5);
+}
+
+h5 {
+    font-size: xx-large;
+    font-style: italic;
+
+    position:absolute;
+    top: 90%;
+    left: 10%;
+    transform: translate(-10%, -90%);
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    width: 280px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid rgb(255, 0, 200);
+    margin: 0;
+    border-radius: 5px;
+
+    background-color: rgba(255, 0, 200, 0.5);
+}
+        </style>
+        
+    </head>
+    <body>
+        <h1>Te amo mi reina<span style='font-size:100px;'>&#128571;</span></h1>
+        <h2>Sos la más hermosa de todas</h2>
+        <h3>Amo tu forma de      ser</h3>
+        <h4>No entiendo por qué te fijaste en mí</h4>
+        <h5>Siempre voy a tratar de ayudarte</h5>
+    </body>
+</html>
